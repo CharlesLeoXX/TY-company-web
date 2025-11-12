@@ -1,0 +1,1494 @@
+{
+  "chairs": [
+    {
+      "id": "TY-D-01.png",
+      "name": "TY-D-01 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-01.png",
+        "photo/DC/TY-D-01-1.png",
+        "photo/DC/TY-D-01-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    {
+      "id": "TY-D-02.png",
+      "name": "TY-D-02 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-02.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-03.png",
+      "name": "TY-D-03 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-03.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-04.png",
+      "name": "TY-D-04 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-04.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-05.png",
+      "name": "TY-D-05 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-05.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-06.png",
+      "name": "TY-D-06 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-06.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    {
+      "id": "TY-D-07.png",
+      "name": "TY-D-07 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-07.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-08.png",
+      "name": "TY-D-08 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-08.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-09.png",
+      "name": "TY-D-09 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-09.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-10.png",
+      "name": "TY-D-10 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-10.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-11.png",
+      "name": "TY-D-11 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-11.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-12.png",
+      "name": "TY-D-12 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-12.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-13.png",
+      "name": "TY-D-13 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-13.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-14.png",
+      "name": "TY-D-14 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-14.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-15.png",
+      "name": "TY-D-15 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-15.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-16.png",
+      "name": "TY-D-16 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-16.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-17.png",
+      "name": "TY-D-17 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-17.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-18.png",
+      "name": "TY-D-18 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-18.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-19.png",
+      "name": "TY-D-19 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-19.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-20.png",
+      "name": "TY-D-20 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-20.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-21.png",
+      "name": "TY-D-21 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-21.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-22.png",
+      "name": "TY-D-22 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-22.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-23.png",
+      "name": "TY-D-23 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-23.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-24.png",
+      "name": "TY-D-24 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-24.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-25.png",
+      "name": "TY-D-25 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-25.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-26.png",
+      "name": "TY-D-26 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-26.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-27.png",
+      "name": "TY-D-27 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-27.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-28.png",
+      "name": "TY-D-28 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-28.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-29.png",
+      "name": "TY-D-29 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-29.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-30.png",
+      "name": "TY-D-30 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-30.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-31.png",
+      "name": "TY-D-31 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-31.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-32.png",
+      "name": "TY-D-32 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-32.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-33.png",
+      "name": "TY-D-33 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-33.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-34.png",
+      "name": "TY-D-34 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-34.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-35.png",
+      "name": "TY-D-35 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-35.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-36.png",
+      "name": "TY-D-36 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-36.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-37.png",
+      "name": "TY-D-37 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-37.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-38.png",
+      "name": "TY-D-38 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-38.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-39.png",
+      "name": "TY-D-39 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-39.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-40.png",
+      "name": "TY-D-40 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-40.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-41.png",
+      "name": "TY-D-41 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-41.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-42.png",
+      "name": "TY-D-42 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-42.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-43.png",
+      "name": "TY-D-43 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-43.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-44.png",
+      "name": "TY-D-44 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-44.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-45.png",
+      "name": "TY-D-45 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-45.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-46.png",
+      "name": "TY-D-46 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-46.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-47.png",
+      "name": "TY-D-47 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-47.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-48.png",
+      "name": "TY-D-48 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-48.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-49.png",
+      "name": "TY-D-49 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-49.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-50.png",
+      "name": "TY-D-50 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-50.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-51.png",
+      "name": "TY-D-51 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-51.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-52.png",
+      "name": "TY-D-52 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-52.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-53.png",
+      "name": "TY-D-53 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-53.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-54.png",
+      "name": "TY-D-54 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-54.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-55.png",
+      "name": "TY-D-55 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-55.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-56.png",
+      "name": "TY-D-56 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-56.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-57.png",
+      "name": "TY-D-57 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-57.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-58.png",
+      "name": "TY-D-58 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-58.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-59.png",
+      "name": "TY-D-59 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-59.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-60.png",
+      "name": "TY-D-60 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-60.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-61.png",
+      "name": "TY-D-61 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-61.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },    
+    {
+      "id": "TY-D-62.png",
+      "name": "TY-D-62 Dining chair",
+      "category": "Dining",
+      "images": [
+        "photo/DC/TY-D-62.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The dining chairs, specially designed for dining and home environments, are made of high-quality fabric materials, providing a comfortable sitting experience and an elegant appearance.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    }
+  ]
+}

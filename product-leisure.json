@@ -1,0 +1,1238 @@
+{
+  "chairs": [
+    { 
+      "id": "TY-L-01.png",
+      "name": "TY-L-01 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-01.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-02.png",
+      "name": "TY-L-02 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-02.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-03.png",
+      "name": "TY-L-03 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-03.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-04.png",
+      "name": "TY-L-04 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-04.png",
+        "photo/LC/TY-L-04-1.png",
+        "photo/LC/TY-L-04-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-05.png",
+      "name": "TY-L-05 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-05.png",
+        "photo/LC/TY-L-05-1.png",
+        "photo/LC/TY-L-05-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-06.png",
+      "name": "TY-L-06 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-06.png",
+        "photo/LC/TY-L-06-1.png",
+        "photo/LC/TY-L-06-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-07.png",
+      "name": "TY-L-07 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-07.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-08.png",
+      "name": "TY-L-08 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-08.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-09.png",
+      "name": "TY-L-09 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-09.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-10.png",
+      "name": "TY-L-10 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-10.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-11.png",
+      "name": "TY-L-11 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-11.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-12.png",
+      "name": "TY-L-12 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-12.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-13.png",
+      "name": "TY-L-13 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-13.png",
+        "photo/LC/TY-L-13-1.png",
+        "photo/LC/TY-L-13-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-14.png",
+      "name": "TY-L-14 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-14.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-15.png",
+      "name": "TY-L-15 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-15.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-16.png",
+      "name": "TY-L-16 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-16.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-17.png",
+      "name": "TY-L-17 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-17.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-18.png",
+      "name": "TY-L-18 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-18.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-19.png",
+      "name": "TY-L-19 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-19.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-20.png",
+      "name": "TY-L-20 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-20.png",
+        "photo/LC/TY-L-20-1.png",
+        "photo/LC/TY-L-20-2.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-21.png",
+      "name": "TY-L-21 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-21.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-22.png",
+      "name": "TY-L-22 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-22.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-23.png",
+      "name": "TY-L-23 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-23.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-24.png",
+      "name": "TY-L-24 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-24.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-25.png",
+      "name": "TY-L-25 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-25.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-26.png",
+      "name": "TY-L-26 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-26.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-27.png",
+      "name": "TY-L-27 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-27.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-28.png",
+      "name": "TY-L-28 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-28.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-29.png",
+      "name": "TY-L-29 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-29.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-30.png",
+      "name": "TY-L-30 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-30.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-31.png",
+      "name": "TY-L-31 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-31.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-32.png",
+      "name": "TY-L-32 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-32.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-33.png",
+      "name": "TY-L-33 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-33.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-34.png",
+      "name": "TY-L-34 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-34.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-35.png",
+      "name": "TY-L-35 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-35.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-36.png",
+      "name": "TY-L-36 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-36.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-37.png",
+      "name": "TY-L-37 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-37.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-38.png",
+      "name": "TY-L-38 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-38.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-39.png",
+      "name": "TY-L-39 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-39.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-40.png",
+      "name": "TY-L-40 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-40.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-41.png",
+      "name": "TY-L-41 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-41.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-42.png",
+      "name": "TY-L-42 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-42.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-43.png",
+      "name": "TY-L-43 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-43.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-44.png",
+      "name": "TY-L-44 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-44.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-45.png",
+      "name": "TY-L-45 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-45.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-46.png",
+      "name": "TY-L-46 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-46.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-47.png",
+      "name": "TY-L-47 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-47.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-48.png",
+      "name": "TY-L-48 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-48.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-49.png",
+      "name": "TY-L-49 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-49.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-50.png",
+      "name": "TY-L-50 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-50.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-L-51.png",
+      "name": "TY-L-51 Leisure chair",
+      "category": "Leisure",
+      "images": [
+        "photo/LC/TY-L-51.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "The comfortable seats, specially designed for leisure and office scenarios, are made of high-quality fabric and support 360-degree rotation, providing a comprehensive comfortable experience.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    }
+  ]
+}

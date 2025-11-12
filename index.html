@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>匠椅 - 专业人体工学椅制造商</title>
+    <title>TAIYU - Professional Chair Manufacturer</title> <!-- 匠椅 - 专业人体工学椅制造商 -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,26 +11,60 @@
     <header>
         <div class="container">
             <nav class="navbar">
-                <a href="#" class="logo">锋<span>迪</span></a>
+                <a href="#" class="logo">TAI<span>YU</span></a> 
                 <ul class="nav-links">
-                    <li><a href="#home">首页</a></li>
-                    <li><a href="#about">关于我们</a></li>
-                    <li><a href="#products">产品中心</a></li>
-                    <li><a href="#advantages">公司优势</a></li>
-                    <li><a href="#contact">联系我们</a></li>
+                    <li><a href="#home">HOME</a></li> <!-- 首页 -->
+                    <li><a href="#about">ABOUT US</a></li> <!-- 关于我们 -->
+                    <li><a href="#products">PRODUCT CENTER</a></li> <!-- 产品中心 -->
+                    <li><a href="#advantages">COMPANY ADVANTAGES</a></li> <!-- 公司优势 -->
+                    <li><a href="#contact">CONTACT US</a></li> <!-- 联系我们 -->
                 </ul>
             </nav>
         </div>
     </header>
 
     <!-- 英雄区域 -->
-    <section class="hero" id="home">
-        <div class="container">
-            <div class="hero-content">
-                <h1>匠心打造，舒适坐感</h1>
-                <p>专注于人体工学椅设计与制造，为您提供健康舒适的办公与生活体验</p>
-                <a href="#products" class="btn">探索产品</a>
+       <section class="hero-slider" id="home">
+        <div class="slides-container">
+            <!-- 第一张轮播图 -->
+            <div class="slide active" style="background-image: url('https://images.unsplash.com/photo-1581539250439-c96689b516dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+                <div class="slide-content">
+                    <h1>Meticulous And Comfortable</h1>
+                </div>
             </div>
+            
+            <!-- 第二张轮播图 -->
+            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+                <div class="slide-content">
+                    <h1>Premium Quality Materials</h1>
+                </div>
+            </div>
+            
+            <!-- 第三张轮播图 -->
+            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+                <div class="slide-content">
+                    <h1>Ergonomic Design Excellence</h1>
+                </div>
+            </div>
+            
+            <!-- 第四张轮播图 -->
+            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1505842381624-cbee894785e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+                <div class="slide-content">
+                    <h1>20 Years of Craftsmanship</h1>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 左右箭头控制 -->
+        <button class="slider-arrow prev">❮</button>
+        <button class="slider-arrow next">❯</button>
+        
+        <!-- 轮播指示器 -->
+        <div class="slider-controls">
+            <div class="slider-dot active" data-slide="0"></div>
+            <div class="slider-dot" data-slide="1"></div>
+            <div class="slider-dot" data-slide="2"></div>
+            <div class="slider-dot" data-slide="3"></div>
         </div>
     </section>
 
@@ -39,15 +72,15 @@
     <section class="about" id="about">
         <div class="container">
             <div class="section-title">
-                <h2>关于我们</h2>
-                <p>专注椅子生产20年，品质与设计的完美结合</p>
+                <h2>ABOUT US</h2>
+                <p>Focusing on chair production for 20 years, it is a perfect combination of quality and design</p>
             </div>
             <div class="about-content">
                 <div class="about-text">
-                    <h3>锋迪 - 专业餐椅休闲椅制造商</h3>
-                    <p>自2003年成立以来，我们一直致力于研发和生产高品质的人体工学椅。我们的产品结合了人体工程学原理与现代设计美学，为用户提供最舒适的坐姿体验。</p>
-                    <p>我们拥有先进的生产设备和技术团队，严格把控每一道生产工序，确保每一把椅子都符合国际质量标准。无论是办公椅、电竞椅还是家居休闲椅，我们都以匠心精神精心打造。</p>
-                    <a href="#contact" class="btn">联系我们</a>
+                    <h3>TAIYU - Professional Manufacturer of dining chairs and lounge chairs</h3>
+                    <p>Since its establishment in 2005, we have been committed to the research and development and production of high-quality chairs. Our products combine ergonomic principles with modern design aesthetics to provide users with the most comfortable sitting posture experience.</p>
+                    <p>We have advanced production equipment and a technical team. We strictly control every production process to ensure that every chair meets international quality standards. Whether it's lounge chairs, dining chairs or bar stools, we meticulously craft them all with a spirit of craftsmanship.</p>
+                    <a href="#contact" class="btn">CONTACT US</a>
                 </div>
                 <div class="about-image">
                     <img src="https://images.unsplash.com/photo-1505842381624-cbee894785e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="椅子生产车间">
@@ -56,75 +89,80 @@
         </div>
     </section>
 
-    <!-- 产品展示 -->
-    <section class="products" id="products">
-        <div class="container">
-            <div class="section-title">
-                <h2>产品中心</h2>
-                <p>精选系列，满足不同场景需求</p>
-            </div>
-            <div class="product-grid">
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="https://images.unsplash.com/photo-1581539250439-c96689b516dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="办公椅">
-                    </div>
-                    <div class="product-info">
-                        <h3>专业办公椅系列</h3>
-                        <p>专为长时间办公设计，提供完美腰背支撑，缓解工作疲劳。</p>
-                        <div class="price">¥1,280起</div>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="电竞椅">
-                    </div>
-                    <div class="product-info">
-                        <h3>电竞椅系列</h3>
-                        <p>专为游戏玩家设计，高强度框架，舒适包裹感，提升游戏体验。</p>
-                        <div class="price">¥1,580起</div>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="休闲椅">
-                    </div>
-                    <div class="product-info">
-                        <h3>家居休闲椅系列</h3>
-                        <p>简约设计，舒适材质，为您的家居生活增添一抹优雅。</p>
-                        <div class="price">¥980起</div>
-                    </div>
-                </div>
-            </div>
+   <!-- 产品展示 -->
+<section class="products" id="products">
+    <div class="container">
+        <div class="section-title">
+            <h2>PRODUCT CENTER</h2>
+            <p>Selected series to meet the needs of different scenarios</p>
         </div>
-    </section>
+        <div class="product-grid">
+            <!-- 休闲椅产品卡片 -->
+            <a href="product-leisure.html" class="product-card">
+                <div class="product-image">
+                    <img src="photo/TY-L-1.png" alt="办公椅">
+                </div>
+                <div class="product-info">
+                    <h3>Leisure Chair Series</h3>
+                    <p>专为长时间办公设计，提供完美腰背支撑，缓解工作疲劳。</p>
+                    <div class="price">¥1,280起</div>
+                </div>
+            </a>
+            
+            <!-- 餐椅产品卡片 -->
+            <a href="product-dining.html" class="product-card">
+                <div class="product-image">
+                    <img src="photo/TY-D-1.png" alt="餐椅">
+                </div>
+                <div class="product-info">
+                    <h3>Dining chair series</h3>
+                    <p>专为游戏玩家设计，高强度框架，舒适包裹感，提升游戏体验。</p>
+                    <div class="price">¥1,580起</div>
+                </div>
+            </a>
+            
+            <!-- 吧椅产品卡片 -->
+            <a href="product-bar.html" class="product-card">
+                <div class="product-image">
+                    <img src="photo/TY-B-1.png" alt="吧椅">
+                </div>
+                <div class="product-info">
+                    <h3>Bar chair series</h3>
+                    <p>简约设计，舒适材质，为您的家居生活增添一抹优雅。</p>
+                    <div class="price">¥980起</div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
 
     <!-- 公司优势 -->
     <section class="advantages" id="advantages">
         <div class="container">
             <div class="section-title">
-                <h2>公司优势</h2>
-                <p>为什么选择匠椅</p>
+                <h2>COMPANY ADVANTAGES</h2>
+                <p>WHY CHOOSE TAIYU</p>
             </div>
             <div class="advantages-grid">
                 <div class="advantage-item">
                     <div class="advantage-icon">✓</div>
-                    <h3>20年专业经验</h3>
-                    <p>深耕椅子制造行业20年，拥有丰富的生产经验和技术积累。</p>
+                    <h3>20 years of professional experience</h3>
+                    <p>Having been deeply engaged in the chair manufacturing industry for 20 years, we possess rich production experience and technological accumulation.</p>
                 </div>
                 <div class="advantage-item">
                     <div class="advantage-icon">✓</div>
-                    <h3>人体工学设计</h3>
-                    <p>所有产品均基于人体工学原理设计，确保舒适与健康的完美结合。</p>
+                    <h3>Ergonomic design</h3>
+                    <p>All products are designed based on ergonomic principles to ensure the perfect combination of comfort and health.</p>
                 </div>
                 <div class="advantage-item">
                     <div class="advantage-icon">✓</div>
-                    <h3>高品质材料</h3>
-                    <p>精选优质材料，严格把控供应链，确保产品耐用性与安全性。</p>
+                    <h3>High-quality materials</h3>
+                    <p>Select high-quality materials, strictly control the supply chain, and ensure the durability and safety of the products.</p>
                 </div>
                 <div class="advantage-item">
                     <div class="advantage-icon">✓</div>
-                    <h3>定制化服务</h3>
-                    <p>提供个性化定制服务，满足企业及个人的特殊需求。</p>
+                    <h3>Customized service</h3>
+                    <p>We offer personalized customization services to meet the special needs of enterprises and individuals.</p>
                 </div>
             </div>
         </div>
@@ -134,48 +172,48 @@
     <section class="contact" id="contact">
         <div class="container">
             <div class="section-title">
-                <h2>联系我们</h2>
-                <p>有任何问题或需求，请随时联系我们</p>
+                <h2>CONTACT US</h2>
+                <p>If you have any questions or needs, please feel free to contact us at any time</p>
             </div>
             <div class="contact-content">
                 <div class="contact-info">
                     <div class="contact-item">
                         <div class="contact-icon">📍</div>
                         <div>
-                            <h3>公司地址</h3>
-                            <p>河北省廊坊市霸州市胜芳镇</p>
+                            <h3>Company Address</h3>
+                            <p>Shengfang Town, Bazhou City, Langfang City, Hebei Province</p>
                         </div>
                     </div>
-                    <div class="contact-item">
+        <!--        <div class="contact-item">
                         <div class="contact-icon">📞</div>
                         <div>
-                            <h3>联系电话</h3>
+                            <h3>Contact number</h3>
                             <p>400-888-9999 / 0755-88889999</p>
                         </div>
                     </div>
                     <div class="contact-item">
                         <div class="contact-icon">✉️</div>
                         <div>
-                            <h3>电子邮箱</h3>
+                            <h3>Email address</h3>
                             <p>charles@fengdifurniture.cn</p>
                         </div>
                     </div>
-                </div>
+                </div>   -->
                 <div class="contact-form">
                     <form>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="您的姓名" required>
+                            <input type="text" class="form-control" placeholder="Your name" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="电子邮箱" required>
+                            <input type="email" class="form-control" placeholder="Email address" required>
                         </div>
                         <div class="form-group">
-                            <input type="tel" class="form-control" placeholder="联系电话">
+                            <input type="tel" class="form-control" placeholder="Contact number">
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" placeholder="您的留言" required></textarea>
+                            <textarea class="form-control" placeholder="Your message" required></textarea>
                         </div>
-                        <button type="submit" class="btn">发送消息</button>
+                        <button type="submit" class="btn">Send a message</button>
                     </form>
                 </div>
             </div>
@@ -187,34 +225,34 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-column">
-                    <h3>锋迪</h3>
-                    <p>专业餐椅休闲椅制造商，致力于为用户提供健康舒适的坐姿体验。</p>
+                    <h3>TAIYU</h3>
+                    <p>Professional chair manufacturer, dedicated to providing users with a healthy and comfortable sitting posture experience</p>
                 </div>
                 <div class="footer-column">
-                    <h3>快速链接</h3>
+                    <h3>Quick Link</h3>
                     <ul>
-                        <li><a href="#home">首页</a></li>
-                        <li><a href="#about">关于我们</a></li>
-                        <li><a href="#products">产品中心</a></li>
-                        <li><a href="#contact">联系我们</a></li>
+                        <li><a href="#home">home</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#products">Product Center</a></li>
+                        <li><a href="#contact">Contact us</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">
-                    <h3>产品系列</h3>
+                    <h3>Product series</h3>
                     <ul>
-                        <li><a href="#">办公椅系列</a></li>
-                        <li><a href="#">电竞椅系列</a></li>
-                        <li><a href="#">家居休闲椅系列</a></li>
-                        <li><a href="#">定制服务</a></li>
+                        <li><a href="#">Leisure Chair Series</a></li>
+                        <li><a href="#">Dining chair series</a></li>
+                        <li><a href="#">Bar chair series</a></li>
+                        <li><a href="#">Customized service</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">
-                    <h3>关注我们</h3>
+                    <h3>Follow us</h3>
                     <ul>
                         <li><a href="#">微信公众号</a></li>
-                        <li><a href="#">微博</a></li>
-                        <li><a href="#">抖音</a></li>
-                        <li><a href="#">小红书</a></li>
+                        <li><a href="#">Weibo</a></li>
+                        <li><a href="#">Douyin</a></li>
+                        <li><a href="#">Xiaohongshu</a></li>
                     </ul>
                 </div>
             </div>
@@ -223,5 +261,154 @@
             </div>
         </div>
     </footer>
+    <script>
+        // 轮播图功能 - 修复自动轮播与手动点击冲突
+        class HeroSlider {
+            constructor() {
+                this.slides = document.querySelectorAll('.slide');
+                this.dots = document.querySelectorAll('.slider-dot');
+                this.prevBtn = document.querySelector('.slider-arrow.prev');
+                this.nextBtn = document.querySelector('.slider-arrow.next');
+                this.currentSlide = 0;
+                this.slideInterval = null;
+                this.slideDuration = 5000; // 5秒切换一次
+                this.isAutoSliding = true; // 标记自动轮播状态
+                
+                this.init();
+            }
+            
+            init() {
+                // 设置自动轮播
+                this.startAutoSlide();
+                
+                // 添加事件监听器
+                this.addEventListeners();
+            }
+            
+            startAutoSlide() {
+                // 清除现有定时器，避免重复
+                this.stopAutoSlide();
+                
+                // 设置新的定时器
+                this.slideInterval = setInterval(() => {
+                    this.nextSlide();
+                }, this.slideDuration);
+                
+                this.isAutoSliding = true;
+            }
+            
+            stopAutoSlide() {
+                if (this.slideInterval) {
+                    clearInterval(this.slideInterval);
+                    this.slideInterval = null;
+                }
+                this.isAutoSliding = false;
+            }
+            
+            nextSlide() {
+                this.currentSlide = (this.currentSlide + 1) % this.slides.length;
+                this.goToSlide(this.currentSlide);
+            }
+            
+            prevSlide() {
+                this.currentSlide = (this.currentSlide - 1 + this.slides.length) % this.slides.length;
+                this.goToSlide(this.currentSlide);
+            }
+            
+            goToSlide(slideIndex) {
+                // 更新幻灯片
+                this.slides.forEach((slide, index) => {
+                    slide.classList.toggle('active', index === slideIndex);
+                });
+                
+                // 更新指示器
+                this.dots.forEach((dot, index) => {
+                    dot.classList.toggle('active', index === slideIndex);
+                });
+                
+                this.currentSlide = slideIndex;
+            }
+            
+            addEventListeners() {
+                // 左右箭头点击事件
+                this.prevBtn.addEventListener('click', () => {
+                    this.handleManualInteraction();
+                    this.prevSlide();
+                    this.restartAutoSlide();
+                });
+                
+                this.nextBtn.addEventListener('click', () => {
+                    this.handleManualInteraction();
+                    this.nextSlide();
+                    this.restartAutoSlide();
+                });
+                
+                // 指示器点击事件
+                this.dots.forEach((dot, index) => {
+                    dot.addEventListener('click', () => {
+                        this.handleManualInteraction();
+                        this.goToSlide(index);
+                        this.restartAutoSlide();
+                    });
+                });
+                
+                // 鼠标悬停暂停自动轮播
+                const slider = document.querySelector('.hero-slider');
+                slider.addEventListener('mouseenter', () => {
+                    this.stopAutoSlide();
+                });
+                
+                slider.addEventListener('mouseleave', () => {
+                    this.restartAutoSlide();
+                });
+                
+                // 触摸滑动支持（移动端）
+                this.addTouchSupport();
+            }
+            
+            handleManualInteraction() {
+                // 标记手动交互，停止自动轮播
+                this.stopAutoSlide();
+            }
+            
+            restartAutoSlide() {
+                // 重新启动自动轮播，但延迟一小段时间
+                setTimeout(() => {
+                    this.startAutoSlide();
+                }, 3000); // 3秒后重新开始自动轮播
+            }
+            
+            addTouchSupport() {
+                const slider = document.querySelector('.slides-container');
+                let startX = 0;
+                let endX = 0;
+                
+                slider.addEventListener('touchstart', (e) => {
+                    startX = e.touches[0].clientX;
+                    this.handleManualInteraction();
+                });
+                
+                slider.addEventListener('touchend', (e) => {
+                    endX = e.changedTouches[0].clientX;
+                    const diffX = startX - endX;
+                    
+                    if (Math.abs(diffX) > 50) { // 滑动距离阈值
+                        if (diffX > 0) {
+                            this.nextSlide();
+                        } else {
+                            this.prevSlide();
+                        }
+                    }
+                    
+                    this.restartAutoSlide();
+                });
+            }
+        }
+        
+        // 页面加载完成后初始化轮播图
+        document.addEventListener('DOMContentLoaded', function() {
+            new HeroSlider();
+        });
+    </script>
 </body>
 </html>

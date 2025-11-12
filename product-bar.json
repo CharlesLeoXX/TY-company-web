@@ -1,0 +1,268 @@
+{
+  "chairs": [
+{ 
+      "id": "TY-B-01.png",
+      "name": "TY-B-01 Bar chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-01.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "Partially adjustable",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-02.png",
+      "name": "TY-B-02 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-02.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-03.png",
+      "name": "TY-B-03 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-03.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-04.png",
+      "name": "TY-B-04 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-04.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-05.png",
+      "name": "TY-B-05 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-05.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-06.png",
+      "name": "TY-B-06 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-06.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-07.png",
+      "name": "TY-B-07 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-07.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-08.png",
+      "name": "TY-B-08 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-08.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-09.png",
+      "name": "TY-B-09 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-09.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-10.png",
+      "name": "TY-B-10 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-10.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    },
+    { 
+      "id": "TY-B-11.png",
+      "name": "TY-B-11 Leisure chair",
+      "category": "Bar",
+      "images": [
+        "photo/BC/TY-B-11.png"
+      ],
+      "imageNames": ["Side view", "Front view", "Back view"],
+      "description": "Stylish bar stools specially designed for bars and high tables, with some models adjustable in height and 360-degree rotation, add a modern touch and comfortable experience to your home and commercial Spaces.",
+      "features": [
+        "Ergonomic design provides comfortable support for the back",
+        "The surface of the high-grade fabric is skin-friendly, comfortable and easy to clean",
+        "High-density sponge filling ensures no collapse even after prolonged sitting",
+        "Stable and durable"
+      ],
+      "specifications": {
+        "Material": "Accept customization",
+        "Load-bearing": "≤150kg",
+        "Lifting range": "None",
+        "Colour": "Accept customization",
+        "Net weight": "None",
+        "Warranty period": "2 years"
+      }
+    }
+  ]
+}

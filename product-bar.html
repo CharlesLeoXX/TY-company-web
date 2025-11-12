@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAIYU - Professional Chair Manufacturer</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* 产品详情页特有样式 - 优化布局减少留白 */
+        .product-detail {
+            padding: 20px 0 60px; /* 减少顶部和底部内边距 */
+        }
+        
+        /* 分类标题样式 - 调整间距 */
+        .category-title {
+            text-align: center;
+            margin-bottom: 30px; /* 减少底部间距 */
+            padding: 15px 0; /* 减少内边距 */
+            position: relative;
+        }
+        
+        .category-title h2 {
+            font-size: 2rem; /* 略微减小字体大小 */
+            color: #333;
+            font-weight: 600;
+            margin-bottom: 8px; /* 减少底部间距 */
+            position: relative;
+            display: inline-block;
+        }
+        
+        .category-title h2:after {
+            content: '';
+            position: absolute;
+            width: 50px; /* 略微减小装饰线长度 */
+            height: 2px; /* 略微减小装饰线粗细 */
+            background-color: #8B4513;
+            bottom: -8px; /* 调整位置 */
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        
+        .category-title p {
+            color: #666;
+            font-size: 1rem; /* 略微减小字体大小 */
+            margin-top: 10px; /* 减少顶部间距 */
+        }
+        
+        /* 缩略图区域调整 */
+        .thumbnail-gallery {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px; /* 略微减小间距 */
+            margin-bottom: 40px; /* 减少底部间距 */
+            align-items: start; /* 确保卡片顶部对齐 */
+        }
+        
+        .thumbnail-item {
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s;
+            border-radius: 8px;
+            overflow: hidden;
+            background: #282828;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.08); /* 略微减小阴影强度 */
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .thumbnail-item:hover {
+            transform: translateY(-3px); /* 减小悬停移动距离 */
+        }
+        
+        .thumbnail-item.active {
+            border: 2px solid #282828; /* 略微减小边框粗细 */
+        }
+        
+        .thumbnail-image {
+            width: 100%;
+            aspect-ratio: 1/1; /* 仅图片容器保持1:1比例 */
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .thumbnail-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s;
+        }
+        
+        .thumbnail-item:hover .thumbnail-image img {
+            transform: scale(1.03); /* 减小缩放效果 */
+        }
+        
+        .thumbnail-info {
+            padding: 12px 10px; /* 减少内边距 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 60px; /* 减小最小高度 */
+        }
+        
+        .thumbnail-name {
+            font-size: 1.1rem; /* 略微减小字体大小 */
+            font-weight: 600;
+            color: #ffffff;
+            text-align: center;
+            margin: 0;
+        }
+        
+        /* 产品详情区域调整 */
+        .product-info {
+            background: #fff;
+            padding: 30px; /* 减少内边距 */
+            border-radius: 8px; /* 略微减小圆角 */
+            box-shadow: 0 15px 30px rgba(0,0,0,0.05); /* 略微减小阴影强度 */
+            margin-bottom: 30px; /* 减少底部间距 */
+            display: none;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            scroll-margin-top: 80px; /* 调整滚动边距 */
+        }
+        
+        .product-info.active {
+            display: flex;
+            opacity: 1;
+            gap: 30px; /* 减少分栏间距 */
+        }
+        
+        /* 左侧产品信息区域 */
+        .product-text-content {
+            flex: 1.2;
+            min-width: 0;
+        }
+        
+        .product-title {
+            font-size: 2rem; /* 略微减小字体大小 */
+            margin-bottom: 20px; /* 减少底部间距 */
+            color: #333;
+        }
+        
+        .product-description {
+            margin-bottom: 25px; /* 减少底部间距 */
+            line-height: 1.7; /* 略微减小行高 */
+            font-size: 1rem; /* 略微减小字体大小 */
+        }
+        
+        .product-features {
+            margin-bottom: 25px; /* 减少底部间距 */
+        }
+        
+        .product-features h3 {
+            margin-bottom: 12px; /* 减少底部间距 */
+            color: #333;
+            font-size: 1.2rem; /* 略微减小字体大小 */
+        }
+        
+        .product-features ul {
+            list-style: none;
+        }
+        
+        .product-features li {
+            margin-bottom: 8px; /* 减少底部间距 */
+            padding-left: 20px; /* 减少左侧内边距 */
+            position: relative;
+        }
+        
+        .product-features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #8B4513;
+            font-weight: bold;
+        }
+        
+        /* 右侧产品图片区域 */
+        .product-image-content {
+            flex: 0.8;
+            max-width: 380px; /* 略微减小最大宽度 */
+            min-width: 280px; /* 略微减小最小宽度 */
+        }
+        
+        .product-main-image {
+            width: 100%;
+            margin-bottom: 12px; /* 减少底部间距 */
+            border-radius: 6px; /* 略微减小圆角 */
+            overflow: hidden;
+            box-shadow: 0 6px 10px rgba(0,0,0,0.06); /* 略微减小阴影强度 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f9f9f9; /* 添加背景色，防止透明图片显示问题 */
+        }
+        
+        .product-main-image img {
+            width: 100%;
+            height: auto; /* 关键修改：高度自适应，保持原始比例 */
+            display: block;
+            max-width: 100%; /* 确保图片不超出容器 */
+        }
+        
+        .product-image-thumbnails {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 6px; /* 减小间距 */
+        }
+        
+        .image-thumbnail {
+            cursor: pointer;
+            border-radius: 4px; /* 略微减小圆角 */
+            overflow: hidden;
+            box-shadow: 0 6px 10px rgba(0,0,0,0.06); /* 略微减小阴影强度 */
+            border: 2px solid transparent;
+            transition: border-color 0.3s, transform 0.3s;
+        }
+        
+        .image-thumbnail:hover {
+            transform: scale(1.03); /* 减小缩放效果 */
+        }
+        
+        .image-thumbnail.active {
+            border-color: #282828;
+        }
+        
+        .image-thumbnail img {
+            width: 100%;
+            height: 120px; /* 略微减小高度 */
+            object-fit: cover;
+        }
+        
+        .action-buttons {
+            margin-top: 25px; /* 减少顶部间距 */
+        }
+        
+        .back-button {
+            display: inline-block;
+            background-color: #f5f5f5;
+            color: #333;
+            padding: 10px 20px; /* 减少内边距 */
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 15px; /* 减少顶部间距 */
+            transition: background-color 0.3s;
+            font-weight: 500;
+            margin-right: 12px; /* 减少右侧间距 */
+            font-size: 0.95rem; /* 略微减小字体大小 */
+        }
+        
+        .back-button:hover {
+            background-color: #e0e0e0;
+            text-decoration: none;
+            color: #333;
+        }
+        
+        /* 响应式设计调整 */
+        @media (max-width: 1024px) {
+            .thumbnail-gallery {
+                grid-template-columns: repeat(3, 1fr); /* 中等屏幕改为3列 */
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .product-detail {
+                padding: 60px 0 40px; /* 移动端进一步减少内边距 */
+            }
+            
+            .thumbnail-gallery {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 15px; /* 移动端减小间距 */
+                margin-bottom: 30px;
+            }
+            
+            .category-title {
+                margin-bottom: 20px;
+                padding: 10px 0;
+            }
+            
+            .category-title h2 {
+                font-size: 1.8rem;
+            }
+            
+            .product-info.active {
+                flex-direction: column;
+                gap: 20px; /* 移动端减小间距 */
+            }
+            
+            .product-image-content {
+                max-width: 100%;
+                order: -1;
+            }
+            
+            .product-main-image {
+                max-height: 280px; /* 移动端进一步限制高度 */
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .thumbnail-gallery {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+            
+            .product-title {
+                font-size: 1.6rem;
+            }
+            
+            .product-main-image {
+                max-height: 220px;
+            }
+            
+            .image-thumbnail img {
+                height: 55px;
+            }
+            .thumbnail-info {
+                min-height: 50px;
+                padding: 8px;
+            }
+    
+            .thumbnail-name {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">TAI<span>YU</span></a> 
+                <ul class="nav-links">
+                    <li><a href="index.html#home">HOME</a></li> <!-- 首页 -->
+                    <li><a href="index.html#about">ABOUT US</a></li> <!-- 关于我们 -->
+                    <li><a href="index.html#products">PRODUCT CENTER</a></li> <!-- 产品中心 -->
+                    <li><a href="index.html#advantages">COMPANY ADVANTAGES</a></li> <!-- 公司优势 -->
+                    <li><a href="index.html#contact">CONTACT US</a></li> <!-- 联系我们 -->
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 产品详情内容 -->
+    <section class="product-detail">
+        <div class="container">
+            <!-- 分类标题区域 -->
+            <div class="category-title">
+                <h2>Bar chair series</h2>
+                <p>专为办公场景设计，提供舒适支撑，提升工作效率</p>
+            </div>
+            
+            <!-- 产品缩略图列表 -->
+            <div class="thumbnail-gallery" id="productThumbnails">
+                <!-- 产品缩略图将由JavaScript动态生成 -->
+            </div>
+            
+            <!-- 产品详情区域 -->
+            <div class="product-info" id="productInfo">
+                <!-- 产品详情将由JavaScript动态生成 -->
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // 全局变量
+        let currentThumbnail = null;
+        let currentThumbnailElement = null;
+        let currentMainImageIndex = 0;
+        
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            loadProductData();
+        });
+
+        // 从外部JSON文件加载产品数据
+        function loadProductData() {
+            fetch('product-bar.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('网络响应不正常');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    renderProductThumbnails(data.chairs);
+                    
+                    if (data.chairs.length > 0) {
+                        displayProductDetails(data.chairs[0]);
+                        document.querySelector('.thumbnail-item').classList.add('active');
+                        currentThumbnail = data.chairs[0].id;
+                        currentThumbnailElement = document.querySelector('.thumbnail-item');
+                    }
+                })
+                .catch(error => {
+                    showError('加载产品数据失败: ' + error.message);
+                });
+        }
+
+        // 显示错误信息
+        function showError(message) {
+            const errorElement = document.createElement('div');
+            errorElement.className = 'error-message';
+            errorElement.textContent = message;
+            document.querySelector('.container').prepend(errorElement);
+        }
+
+        // 图片错误处理函数
+        function handleImageError(imgElement, fallbackSrc = 'photo/image-placeholder.jpg') {
+            imgElement.onerror = null; // 防止循环错误
+            mgElement.src = fallbackSrc;
+            imgElement.alt = '图片加载失败';
+            }
+    
+        // 为图片元素添加错误处理
+        function addImageErrorHandler(imgElement, fallbackSrc) {
+            imgElement.onerror = function() {
+               handleImageError(this, fallbackSrc);
+            };
+        }
+
+        // 渲染产品缩略图列表
+        function renderProductThumbnails(products) {
+            const thumbnailContainer = document.getElementById('productThumbnails');
+            thumbnailContainer.innerHTML = '';
+            
+            products.forEach(product => {
+                const thumbnailItem = document.createElement('div');
+                thumbnailItem.className = 'thumbnail-item';
+                thumbnailItem.setAttribute('data-product-id', product.id);
+                
+                thumbnailItem.innerHTML = `
+                    <div class="thumbnail-image">
+                        <img src="${product.images[0]}" alt="${product.name}">
+                    </div>
+                    <div class="thumbnail-info">
+                        <div class="thumbnail-name">${product.name}</div>
+                    </div>
+                `;
+                
+                thumbnailItem.addEventListener('click', function() {
+                    displayProductDetails(product);
+                    
+                    document.querySelectorAll('.thumbnail-item').forEach(item => {
+                        item.classList.remove('active');
+                    });
+                    
+                    this.classList.add('active');
+                    currentThumbnail = product.id;
+                    currentThumbnailElement = this;
+                    currentMainImageIndex = 0;
+                    
+                    smoothScrollToProductInfo();
+                });
+                
+                thumbnailContainer.appendChild(thumbnailItem);
+            });
+        }
+
+        // 平滑滚动到产品详情区域
+        function smoothScrollToProductInfo() {
+            const productInfo = document.getElementById('productInfo');
+            const headerHeight = document.querySelector('header').offsetHeight;
+            const productInfoPosition = productInfo.offsetTop - headerHeight - 15;
+            
+            window.scrollTo({
+                top: productInfoPosition,
+                behavior: 'smooth'
+            });
+        }
+        
+        // 平滑滚动到选中的缩略图
+        function smoothScrollToThumbnail() {
+            if (currentThumbnailElement) {
+                const headerHeight = document.querySelector('header').offsetHeight;
+                const thumbnailPosition = currentThumbnailElement.offsetTop - headerHeight - 15;
+                
+                window.scrollTo({
+                    top: thumbnailPosition,
+                    behavior: 'smooth'
+                });
+            }
+        }
+
+        // 显示产品详情
+        function displayProductDetails(product) {
+            const productInfo = document.getElementById('productInfo');
+            
+            const specsList = Object.entries(product.specifications)
+                .map(([key, value]) => `<li><strong>${key}：</strong>${value}</li>`)
+                .join('');
+            
+            const featuresList = product.features
+                .map(feature => `<li>${feature}</li>`)
+                .join('');
+            
+            const imageThumbnails = product.images.map((image, index) => {
+                const imageName = product.imageNames && product.imageNames[index] 
+                    ? product.imageNames[index] 
+                    : `图片${index + 1}`;
+                    
+                return `
+                    <div class="image-thumbnail ${index === 0 ? 'active' : ''}" data-index="${index}">
+                        <img src="${image}" alt="${imageName}">
+                    </div>
+                `;
+            }).join('');
+            
+            productInfo.innerHTML = `
+                <div class="product-text-content">
+                    <h1 class="product-title">${product.name}</h1>
+                    
+                    <div class="product-description">
+                        <p>${product.description}</p>
+                    </div>
+                    
+                    <div class="product-features">
+                        <h3>Product Feature</h3>
+                        <ul>${featuresList}</ul>
+                    </div>
+                    
+                    <div class="product-features">
+                        <h3>Specification Parameter</h3>
+                        <ul>${specsList}</ul>
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <a href="index.html#products" class="back-button">← Return to the product list</a>
+                        <button class="back-button close-info">× Close details</button>
+                    </div>
+                </div>
+                
+                <div class="product-image-content">
+                    <div class="product-main-image">
+                        <img src="${product.images[0]}" alt="${product.name}" id="mainProductImage">
+                    </div>
+                    <div class="product-image-thumbnails" id="productImageThumbnails">
+                        ${imageThumbnails}
+                    </div>
+                </div>
+            `;
+            
+            productInfo.classList.add('active');
+            setupImageThumbnailEvents(product);
+            
+            const closeButton = productInfo.querySelector('.close-info');
+            closeButton.addEventListener('click', function() {
+                productInfo.classList.remove('active');
+                setTimeout(function() {
+                    smoothScrollToThumbnail();
+                }, 300);
+            });
+        }
+        
+        // 设置图片缩略图点击事件
+        function setupImageThumbnailEvents(product) {
+            const thumbnails = document.querySelectorAll('.image-thumbnail');
+            const mainImage = document.getElementById('mainProductImage');
+            
+            thumbnails.forEach(thumbnail => {
+                thumbnail.addEventListener('click', function() {
+                    const index = parseInt(this.getAttribute('data-index'));
+                    
+                    mainImage.src = product.images[index];
+                    mainImage.alt = product.imageNames && product.imageNames[index] 
+                        ? product.imageNames[index] 
+                        : `图片${index + 1}`;
+                    
+                    currentMainImageIndex = index;
+                    
+                    thumbnails.forEach(thumb => thumb.classList.remove('active'));
+                    this.classList.add('active');
+                });
+            });
+        }
+    </script>
+</body>
+</html>
