@@ -27,30 +27,44 @@
        <section class="hero-slider" id="home">
         <div class="slides-container">
             <!-- 第一张轮播图 -->
-            <div class="slide active" style="background-image: url('https://images.unsplash.com/photo-1581539250439-c96689b516dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+            <div class="slide active" style="background-image: url('photo/TY-1.JPG');">
                 <div class="slide-content">
                     <h1>Meticulous And Comfortable</h1>
                 </div>
             </div>
             
             <!-- 第二张轮播图 -->
-            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+            <div class="slide" style="background-image: url('photo/TY-2.JPG');">
                 <div class="slide-content">
                     <h1>Premium Quality Materials</h1>
                 </div>
             </div>
             
             <!-- 第三张轮播图 -->
-            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+            <div class="slide" style="background-image: url('photo/TY-3.JPG');">
                 <div class="slide-content">
                     <h1>Ergonomic Design Excellence</h1>
                 </div>
             </div>
             
             <!-- 第四张轮播图 -->
-            <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1505842381624-cbee894785e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');">
+            <div class="slide" style="background-image: url('photo/TY-4.JPG');">
                 <div class="slide-content">
-                    <h1>20 Years of Craftsmanship</h1>
+                    <h1>Crafting Comfort Since 2003</h1>
+                </div>
+            </div>
+        </div>
+            <!-- 第五张轮播图 -->
+            <div class="slide" style="background-image: url('photo/TY-6.JPG');">
+                <div class="slide-content">
+                    <h1>Private customization</h1>
+                </div>
+            </div>
+        </div>
+            <!-- 第六张轮播图 -->
+            <div class="slide" style="background-image: url('photo/TY-7.JPG');">
+                <div class="slide-content">
+                    <h1>Premium Materials Only</h1>
                 </div>
             </div>
         </div>
@@ -65,6 +79,8 @@
             <div class="slider-dot" data-slide="1"></div>
             <div class="slider-dot" data-slide="2"></div>
             <div class="slider-dot" data-slide="3"></div>
+            <div class="slider-dot" data-slide="4"></div>
+            <div class="slider-dot" data-slide="5"></div>
         </div>
     </section>
 
@@ -80,10 +96,9 @@
                     <h3>TAIYU - Professional Manufacturer of dining chairs and lounge chairs</h3>
                     <p>Since its establishment in 2005, we have been committed to the research and development and production of high-quality chairs. Our products combine ergonomic principles with modern design aesthetics to provide users with the most comfortable sitting posture experience.</p>
                     <p>We have advanced production equipment and a technical team. We strictly control every production process to ensure that every chair meets international quality standards. Whether it's lounge chairs, dining chairs or bar stools, we meticulously craft them all with a spirit of craftsmanship.</p>
-                    <a href="#contact" class="btn">CONTACT US</a>
                 </div>
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1505842381624-cbee894785e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="椅子生产车间">
+                    <img src="photo/TY-5.JPG" alt="Chair production workshop">
                 </div>
             </div>
         </div>
@@ -104,8 +119,8 @@
                 </div>
                 <div class="product-info">
                     <h3>Leisure Chair Series</h3>
-                    <p>专为长时间办公设计，提供完美腰背支撑，缓解工作疲劳。</p>
-                    <div class="price">¥1,280起</div>
+                    <p>Designed specifically for leisure, it offers perfect support for the waist and back, alleviating fatigue.</p>
+                    <div class="price">starting from $10</div>
                 </div>
             </a>
             
@@ -116,8 +131,8 @@
                 </div>
                 <div class="product-info">
                     <h3>Dining chair series</h3>
-                    <p>专为游戏玩家设计，高强度框架，舒适包裹感，提升游戏体验。</p>
-                    <div class="price">¥1,580起</div>
+                    <p>The simple design and comfortable materials add a touch of elegance and comfort to your home life.</p>
+                    <div class="price">starting from $10</div>
                 </div>
             </a>
             
@@ -128,8 +143,8 @@
                 </div>
                 <div class="product-info">
                     <h3>Bar chair series</h3>
-                    <p>简约设计，舒适材质，为您的家居生活增添一抹优雅。</p>
-                    <div class="price">¥980起</div>
+                    <p>The simple design and comfortable materials add a touch of elegance and comfort to your home life.</p>
+                    <div class="price">starting from $10</div>
                 </div>
             </a>
         </div>
@@ -200,18 +215,22 @@
                     </div>
                 </div>   -->
                 <div class="contact-form">
-                    <form>
+                    <!-- 添加netlify属性 -->
+                    <form name="contact" method="POST" netlify>
+                        <!-- 添加隐藏的form-name字段 -->
+                        <input type="hidden" name="form-name" value="contact">
+                        
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your name" required>
+                            <input type="text" class="form-control" placeholder="Your name" name="name" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Email address" required>
+                            <input type="email" class="form-control" placeholder="Email address" name="email" required>
                         </div>
                         <div class="form-group">
-                            <input type="tel" class="form-control" placeholder="Contact number">
+                            <input type="tel" class="form-control" placeholder="Contact number" name="phone">
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" placeholder="Your message" required></textarea>
+                            <textarea class="form-control" placeholder="Your message" name="message" required></textarea>
                         </div>
                         <button type="submit" class="btn">Send a message</button>
                     </form>
@@ -257,7 +276,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2023 锋迪家具有限公司 版权所有 | 粤ICP备12345678号</p>
+                <p>&copy; </p>
             </div>
         </div>
     </footer>
@@ -271,7 +290,7 @@
                 this.nextBtn = document.querySelector('.slider-arrow.next');
                 this.currentSlide = 0;
                 this.slideInterval = null;
-                this.slideDuration = 5000; // 5秒切换一次
+                this.slideDuration = 3500; // 4秒切换一次
                 this.isAutoSliding = true; // 标记自动轮播状态
                 
                 this.init();
@@ -408,6 +427,31 @@
         // 页面加载完成后初始化轮播图
         document.addEventListener('DOMContentLoaded', function() {
             new HeroSlider();
+        });
+
+        // 添加表单提交效果
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            
+            // 添加加载状态
+            submitBtn.classList.add('loading');
+            submitBtn.textContent = 'Sending...';
+            
+            // 模拟表单提交
+            setTimeout(function() {
+                submitBtn.classList.remove('loading');
+                submitBtn.textContent = 'Message Sent!';
+                submitBtn.classList.add('success');
+                
+                // 3秒后恢复原状
+                setTimeout(function() {
+                    submitBtn.textContent = 'Send a message';
+                    submitBtn.classList.remove('success');
+                    document.getElementById('contactForm').reset();
+                }, 3000);
+            }, 2000);
         });
     </script>
 </body>
